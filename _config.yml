@@ -1,0 +1,8 @@
+markdown: redcarpet
+paginate: 4
+baseurl: http://steelx.github.io/jekyll-blog/
+url: http://steelx.github.io/jekyll-blog/
+root: /jekyll-blog
+
+gems:
+ - jekyll-sitemap
