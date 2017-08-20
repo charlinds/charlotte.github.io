@@ -6,3 +6,5 @@ root: /jekyll-blog
 
 gems:
  - jekyll-sitemap
+
+theme: jekyll-theme-merlot
